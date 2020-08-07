@@ -2,7 +2,7 @@ node-red-contrib-strapi
 ========================
 
 A <a href="http://nodered.org" target="_new">Node-RED</a> 
-node to get response to  <a href="https://strapi.io/" target="_new"> strapi api </a>.
+node to get response to  <a href="https://strapi.io/documentation/v3.x/content-api/api-endpoints.html#endpoints" target="_new"> strapi api </a>.
 
 Install
 -------
@@ -16,7 +16,7 @@ Usage
 -----
 
 ## Strapi API 
-<i><a href="http://www.strapi.com" target="_new">Strapi</a></i> api request node.
+<i><a href="https://strapi.io/documentation/v3.x/content-api/api-endpoints.html#endpoints" target="_new">Strapi</a></i> api request node.
 
 Expects a <b>msg.payload</b> with request(get,post,put,delete) params.
 
