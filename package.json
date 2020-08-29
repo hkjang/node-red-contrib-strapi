@@ -1,6 +1,6 @@
 {
-  "_from": "node-red-contrib-strapi@0.0.4",
-  "_id": "node-red-contrib-strapi@0.0.4",
+  "_from": "node-red-contrib-strapi@0.0.5",
+  "_id": "node-red-contrib-strapi@0.0.5",
   "_inBundle": false,
   "_integrity": "sha512-j13oKWNs/L7zktt1F24wpnHH0W60Gg1lBQ7CuPsOLqlR3VUZ8cPwa+7hb05rT1yxOaZPsrIHqMi6mGUnFuY6AA==",
   "_location": "/node-red-contrib-strapi",
@@ -8,20 +8,20 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "node-red-contrib-strapi@0.0.4",
+    "raw": "node-red-contrib-strapi@0.0.5",
     "name": "node-red-contrib-strapi",
     "escapedName": "node-red-contrib-strapi",
-    "rawSpec": "0.0.4",
+    "rawSpec": "0.0.5",
     "saveSpec": null,
-    "fetchSpec": "0.0.4"
+    "fetchSpec": "0.0.5"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/node-red-contrib-strapi/-/node-red-contrib-strapi-0.0.4.tgz",
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-strapi/-/node-red-contrib-strapi-0.0.5.tgz",
   "_shasum": "ed92af3e3bdeefc1c2baf0370ae93b00399b920b",
-  "_spec": "node-red-contrib-strapi@0.0.4",
+  "_spec": "node-red-contrib-strapi@0.0.5",
   "_where": "C:\\Users\\user\\.node-red",
   "author": {
     "name": "hkjang",
@@ -57,5 +57,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.4"
+  "version": "0.0.5"
 }
